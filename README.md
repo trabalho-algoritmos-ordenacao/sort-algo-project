@@ -15,8 +15,6 @@ O **Heap Sort** é um algoritmo de ordenação que utiliza a estrutura de dados 
 
 Execute o programa:
 
-1java HeapSort
-
 📋 Exemplo de Saída
 
 Array original: 12 11 13 5 6 7 
