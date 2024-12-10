@@ -18,8 +18,9 @@ Execute o programa:
 1java HeapSort
 
 📋 Exemplo de Saída
-1Array original: 12 11 13 5 6 7
-2Array ordenado: 5 6 7 11 12 13
+Array original: 12 11 13 5 6 7 
+
+Array ordenado: 5 6 7 11 12 13
 
 =======
 
